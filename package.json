@@ -1,0 +1,10 @@
+{
+  "name": "{{name}}",
+  "author": "{{author}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
